@@ -43,7 +43,7 @@ O notebook utiliza o arquivo CSV com as seguintes colunas principais:
   pip install pandas numpy matplotlib jupyter
   ```
   ```bash
-  analise_metro_sp.ipynb
+  ./analise_metro_sp.ipynb
   ```
 
 ## Requisitos
