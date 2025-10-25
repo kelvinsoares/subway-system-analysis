@@ -1,4 +1,4 @@
-# Análise de Dados — Estações do Sitema de Metrô e Trens de São Paulo
+# Análise de Dados — Estações do Sistema de Metrô e Trens de São Paulo
 
 Estudo analítico e exploratório sobre as linhas e estações do metrô paulistano (e sistema da CPTM): modernização, ritmo de expansão e indicadores executivos.
 
